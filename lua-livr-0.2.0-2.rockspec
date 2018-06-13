@@ -1,22 +1,22 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = 'lua-LIVR'
-version = '0.2.0-1'
+version = '0.2.0-2'
 -- LuaDist source
 source = {
-  tag = "0.2.0-1",
-  url = "git://github.com/LuaDist-testing/lua-livr.git"
+  url = "git://github.com/LuaDist-testing/lua-livr.git",
+  tag = "0.2.0-2"
 }
 -- Original source
 -- source = {
---     url = 'http://github.com/fperrad/lua-LIVR/raw/releases/lua-livr-0.2.0.tar.gz',
+--     url = 'https://framagit.org/fperrad/lua-LIVR/raw/releases/lua-livr-0.2.0.tar.gz',
 --     md5 = '8d407381541efed867495bddc55357ef',
 --     dir = 'lua-LIVR-0.2.0',
 -- }
 description = {
     summary = "Lightweight validator supporting Language Independent Validation Rules Specification (LIVR)",
     detailed = "see <http://livr-spec.org>",
-    homepage = 'http://fperrad.github.io/lua-LIVR',
+    homepage = 'http://fperrad.frama.io/lua-LIVR',
     maintainer = 'Francois Perrad',
     license = 'MIT/X11'
 }
